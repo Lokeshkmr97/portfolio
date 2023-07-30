@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.401502ba.css",
+    "main.js": "/portfolio/static/js/main.0545fa70.js",
+    "static/media/trendopia.png": "/portfolio/static/media/trendopia.4316c3164dc1d2a1dd28.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.9b3f1d9cc01c79b17954.png",
+    "static/media/Lokesh.jpg": "/portfolio/static/media/Lokesh.016bcdb3394650f8b5f8.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.401502ba.css.map": "/portfolio/static/css/main.401502ba.css.map",
+    "main.0545fa70.js.map": "/portfolio/static/js/main.0545fa70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.401502ba.css",
+    "static/js/main.0545fa70.js"
+  ]
+}
